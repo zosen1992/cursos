@@ -1,4 +1,4 @@
-cursos realizados (Si no carga, pueden dar clic en cada uno)
+cursos realizados (Si no carga, pueden dar clic en los iconos de logo imagen)
 
 <img src="https://i.postimg.cc/bJCj6bHs/API-Development-with-C-NET-and-MS-SQL-Server.jpg" width="600"/>
 
