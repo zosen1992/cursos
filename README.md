@@ -19,7 +19,7 @@ Android App Development in 34 Hours : MobDevOps+ Android 15<br>
 <img src="https://i.postimg.cc/ZYQSp85Q/kotlin.jpg" width="600"/>
 
 Complete Microsoft SQL Server Database Design Masterclass<br>
-<img src="https://i.postimg.cc/vZFwSG9L/sql-server-masterclass.jpg" width="600"/>
+<img src="" width="600"/>
 
 Professional Diploma in Technical Project Management<br>
 <img src="https://i.postimg.cc/TYWX9Ky3/tecnico-project-mannager.jpg" width="600"/>
