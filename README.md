@@ -4,7 +4,7 @@ C# .NET with MS SQL Complete Beginner to Master 2025<br>
 <img src="https://i.postimg.cc/bJCj6bHs/API-Development-with-C-NET-and-MS-SQL-Server.jpg" width="600"/>
 
 Curso de Base de Datos MySQL Server<br>
-<img src="https://i.postimg.cc/hPPXrb08/bd-sql.jpg" width="600"/>
+<img src= "https://i.postimg.cc/hPPXrb08/bd-sql.jpg" width="600"/>
 
 Entrenamiento de Base de Datos Microsoft SQL Server<br>
 <img src="https://i.postimg.cc/268DFTWs/entrenamiento-bd-microsoft-sql.jpg" width="600"/>
