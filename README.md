@@ -1,4 +1,4 @@
-cursos realizados (Si no carga, pueden dar clic en los iconos de logo imagen)
+cursos realizados, autocapacitacion
 
 C# .NET with MS SQL Complete Beginner to Master 2025<br>
 <img src="https://i.postimg.cc/bJCj6bHs/API-Development-with-C-NET-and-MS-SQL-Server.jpg" width="600"/>
