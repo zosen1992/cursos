@@ -10,7 +10,7 @@ Entrenamiento de Base de Datos Microsoft SQL Server<br>
 <img src="https://i.postimg.cc/268DFTWs/entrenamiento-bd-microsoft-sql.jpg" width="600"/>
 
 Gobierno de Datos: Fundamentos y Estrategias para Decisiones<br>
-<img src="https://i.postimg.cc/7h5rj6mX/gobierno-de-datos-fundamentos.jpg" width="600"/>
+<img src="(https://i.postimg.cc/7h5rj6mX/gobierno-de-datos-fundamentos.jpg)" width="600"/>
 
 Empathy and Emotional Intelligence for Project Managers<br>
 <img src="https://i.postimg.cc/WzxcVvyV/inteligencia-emocional.jpg" width="600"/>
