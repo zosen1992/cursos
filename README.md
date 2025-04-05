@@ -30,8 +30,11 @@ Curso SAP TOTAL, aprende todos los módulos SAP<br>
 Windows Command Mastery for Ethical Hackers<br>
 <img src="https://i.postimg.cc/LsmK2vxJ/Windows-etical.jpg" width="600"/>
 
+The Complete Full-Stack Web Development Bootcamp 60%
+<img src="https://i.postimg.cc/ZqLNdgsf/fullstack-web-developer.jpg" width="600"/>
+
 
 En Curso
-The Complete Full-Stack Web Development Bootcamp 60%
+
 SAP ABAP Programming Reports, Adobe Forms, CDS, AMDP & more 27&
 IBM App Connect Enterprise 12 (ACE) Development 32%
